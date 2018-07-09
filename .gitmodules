@@ -4,3 +4,36 @@
 [submodule "libgeometric"]
 	path = libgeometric
 	url = git@github.com:gaudetteje/libgeometric.git
+[submodule "3rd_party"]
+	path = 3rd_party
+	url = git@github.com:gaudetteje/3rd_party.git
+[submodule "libacoustics"]
+	path = libacoustics
+	url = git@github.com:gaudetteje/libacoustics.git
+[submodule "libcrc"]
+	path = libcrc
+	url = git@github.com:gaudetteje/libcrc.git
+[submodule "libdaq"]
+	path = libdaq
+	url = git@github.com:gaudetteje/libdaq.git
+[submodule "libfilter"]
+	path = libfilter
+	url = git@github.com:gaudetteje/libfilter.git
+[submodule "libformat"]
+	path = libformat
+	url = git@github.com:gaudetteje/libformat.git
+[submodule "libmca"]
+	path = libmca
+	url = git@github.com:gaudetteje/libmca.git
+[submodule "libneuro"]
+	path = libneuro
+	url = git@github.com:gaudetteje/libneuro.git
+[submodule "libplot"]
+	path = libplot
+	url = git@github.com:gaudetteje/libplot.git
+[submodule "libsher"]
+	path = libsher
+	url = git@github.com:gaudetteje/libsher.git
+[submodule "libsproc"]
+	path = libsproc
+	url = git@github.com:gaudetteje/libsproc.git
