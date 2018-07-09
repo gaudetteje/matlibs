@@ -1,0 +1,11 @@
+% MATLAB startup file to include libraries and modify environment
+%   Place this file in the startup directory specified by the Matlab
+%   shortcut's properties
+%   
+display(sprintf('Loading user preferences in "%s"...\n', mfilename('fullpath')))
+
+format compact
+
+addpath(genpath('D:\gaudetteje\src\matlibs'))
+
+
