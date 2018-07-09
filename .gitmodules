@@ -1,0 +1,6 @@
+[submodule "libfileutils"]
+	path = libfileutils
+	url = git@github.com:gaudetteje/libfileutils.git
+[submodule "libgeometric"]
+	path = libgeometric
+	url = git@github.com:gaudetteje/libgeometric.git
