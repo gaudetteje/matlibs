@@ -31,9 +31,6 @@
 [submodule "libplot"]
 	path = libplot
 	url = git@github.com:gaudetteje/libplot.git
-[submodule "libsher"]
-	path = libsher
-	url = git@github.com:gaudetteje/libsher.git
 [submodule "libsproc"]
 	path = libsproc
 	url = git@github.com:gaudetteje/libsproc.git
