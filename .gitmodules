@@ -1,33 +1,44 @@
 [submodule "libacoustics"]
 	path = libacoustics
 	url = git@github.com:gaudetteje/libacoustics.git
+	ignore = dirty
 [submodule "libcrc"]
 	path = libcrc
 	url = git@github.com:gaudetteje/libcrc.git
+	ignore = dirty
 [submodule "libdaq"]
 	path = libdaq
 	url = git@github.com:gaudetteje/libdaq.git
+	ignore = dirty
 [submodule "libfileutils"]
 	path = libfileutils
 	url = git@github.com:gaudetteje/libfileutils.git
+	ignore = dirty
 [submodule "libfilter"]
 	path = libfilter
 	url = git@github.com:gaudetteje/libfilter.git
+	ignore = dirty
 [submodule "libformat"]
 	path = libformat
 	url = git@github.com:gaudetteje/libformat.git
+	ignore = dirty
 [submodule "libgeometric"]
 	path = libgeometric
 	url = git@github.com:gaudetteje/libgeometric.git
+	ignore = dirty
 [submodule "libmca"]
 	path = libmca
 	url = git@github.com:gaudetteje/libmca.git
+	ignore = dirty
 [submodule "libneuro"]
 	path = libneuro
 	url = git@github.com:gaudetteje/libneuro.git
+	ignore = dirty
 [submodule "libplot"]
 	path = libplot
 	url = git@github.com:gaudetteje/libplot.git
+	ignore = dirty
 [submodule "libsproc"]
 	path = libsproc
 	url = git@github.com:gaudetteje/libsproc.git
+	ignore = dirty
